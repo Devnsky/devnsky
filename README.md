@@ -1,3 +1,3 @@
-### Hi there 👋
+Hi there 👋
 
-## - 🌱 I’m currently learning Go and Vuejs3
+- 🌱 I’m currently learning Go and Vuejs3
